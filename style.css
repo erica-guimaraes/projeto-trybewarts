@@ -6,9 +6,19 @@
 
 .header {
   display: flex;
-  background-color: rgb(50, 167, 145)
+  background-color: rgb(50, 167, 145);
 }
 
 form {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#evaluation-form , main {
+  display: flex;
+}
+
+#evaluation-form {
+  width: 675px;
 }
