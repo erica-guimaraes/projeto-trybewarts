@@ -27,3 +27,17 @@ form {
 #trybewarts-forms-logo {
   height: 500px;
 }
+
+#nome-sobrenome {
+  display: flex;
+}
+
+#email-casa {
+  display: flex;
+}
+
+#familia {
+  display: flex;
+  flex-direction: column;
+}
+
