@@ -2,11 +2,24 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Inknut Antiqua', serif;
+}
+
+main {
+  background-color: rgb(248, 240, 230);
 }
 
 .header {
   display: flex;
+  align-items: center;
+  justify-content: space-between;
   background-color: rgb(50, 167, 145);
+  color: white;
+}
+
+.header input {
+  width: 150px;
+  margin-right: 5px;
 }
 
 form {
@@ -41,3 +54,14 @@ form {
   flex-direction: column;
 }
 
+header img {
+  width: 100px;
+}
+
+footer {
+  text-align: center;
+}
+
+section {
+  padding: 10px;
+}
