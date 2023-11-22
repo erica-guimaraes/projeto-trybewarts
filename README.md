@@ -1,10 +1,33 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Projeto - Trybewarts
+
+Desenvolvemos nosso primeiro projeto em dupla! 
+
+Colocamos em prática nossas habilidades de criação de formulários, responsividade e posicionamento de objetos na tela.
+
+### HTML E CSS - FORMS
+
+Nessa seção, aprendi sobre formulários em HTML, que é uma forma de enviar informações para outra página do site ou para um servidor. Utilizando as tags: input, button, textarea, select, form.
+
+Desta forma, sou capaz de:
+
+- Adicionar bibliotecas JavaScript e CSS aos sites;
+
+- Utilizar bibliotecas JavaScript externas a partir de uma CDN;
+
+Desenvolvi conceitos sobre:
+
+- Propriedades flex-direction, flex-wrap, flex-flow, reverse, justify-content, align-items e align-content;
+
+- Propriedades align-self, order, flex-grow, flex-shrink e flex-basis;
+
+Trabalhei com: 
+
+- Margins no Flexbox.
+
+- CSS Flexbox para criar layouts flexíveis;
+
+- CSS Flexbox para alterar o comportamento de items;
+
+- Regras CSS específicas para serem aplicadas a dispositivos móveis;
+
+- Páginas que alteram o seu layout de acordo com a orientação da tela.
